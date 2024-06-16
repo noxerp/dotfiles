@@ -4,3 +4,5 @@ XF86AudioRaiseVolume
     ~/.config/sxhkd/pactl_increase_volume_1%
 XF86AudioLowerVolume
     ~/.config/sxhkd/pactl_decrease_volume_1%
+Print
+    xfce4-screenshooter
