@@ -1,2 +1,2 @@
 #!/bin/sh
-#feh --no-fehbg --bg-scale [ENTER IMAGE PATH]
+feh --no-fehbg --bg-scale [INSERT PATH]
