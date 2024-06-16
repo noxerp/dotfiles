@@ -9,4 +9,5 @@
     exec slstatus &
     ~/.config/fehbg/.fehbg &
     exec picom --config ~/.config/picom/picom.conf &
-    exec pulseeffects --gapplication-service
+    exec pulseeffects --gapplication-service &
+    exec sxhkd -c ~/.config/sxhkd/sxhkdrc
