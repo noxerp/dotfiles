@@ -1,0 +1,4 @@
+XF86AudioRaiseVolume
+    /pactl_increase_volume_1%
+XF86AudioLowerVolume
+    /pactl_decrease_volume_1%
